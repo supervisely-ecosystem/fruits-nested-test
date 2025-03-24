@@ -16,7 +16,7 @@
 
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervisely.com/slack)
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/fruits-nested-test)
-[![views](https://app.supervisely.com/img/badges/views/supervisely-ecosystem/fruits-nested-test.png)](https://supervisely.com) 
+[![views](https://app.supervisely.com/img/badges/views/supervisely-ecosystem/fruits-nested-test.png)](https://supervisely.com)
 [![downloads](https://app.supervisely.com/img/badges/downloads/supervisely-ecosystem/fruits-nested-test.png)](https://supervisely.com)
 
 </div>
