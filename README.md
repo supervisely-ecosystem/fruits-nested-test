@@ -23,7 +23,7 @@
 
 ## Overview
 
- `Fruits Nested Test` is an example project with 22 unlabeled images, 2 datasets and 7 nested datasets.
+ `Fruits Nested Test` is an example project with 22 unlabeled images, 2 parent datasets and 7 nested datasets.
 
 ## Description
 
