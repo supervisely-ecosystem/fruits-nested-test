@@ -36,3 +36,62 @@ Direct download: [tar archive](https://github.com/user-attachments/files/1943260
 ## Statistics
 
 Project contains 2 parent datasets, 7 nested datasets and 22 images in it, without annotations.
+
+```text
+📦 Fruits (Annotated)          ← The project
+ ┣ 📂 Temperate                ← Main dataset #1
+ ┃ ┣ 📂 ann                    ← Empty (no annotations here)
+ ┃ ┣ 📂 img                    ← Empty (no images here)
+ ┃ ┣ 📂 datasets               ← Where the nested datasets live
+ ┃ ┃ ┣ 📂 Apple                ← Nested dataset for apples
+ ┃ ┃ ┃ ┣ 📂 ann
+ ┃ ┃ ┃ ┃ ┣ 📜 apple_1.jpg.json
+ ┃ ┃ ┃ ┃ ┣ 📜 apple_2.jpg.json
+ ┃ ┃ ┃ ┃ ┗ 📜 apple_3.jpg.json
+ ┃ ┃ ┃ ┗ 📂 img
+ ┃ ┃ ┃ ┃ ┣ 🖼️ apple_1.jpg
+ ┃ ┃ ┃ ┃ ┣ 🖼️ apple_2.jpg
+ ┃ ┃ ┃ ┃ ┗ 🖼️ apple_3.jpg
+ ┃ ┃ ┗ 📂 Pear                  ← Nested dataset for pears
+ ┃ ┃ ┃ ┣ 📂 ann
+ ┃ ┃ ┃ ┃ ┣ 📜 pear_1.jpg.json
+ ┃ ┃ ┃ ┃ ┣ 📜 pear_2.jpg.json
+ ┃ ┃ ┃ ┃ ┗ 📜 pear_3.jpg.json
+ ┃ ┃ ┃ ┗ 📂 img
+ ┃ ┃ ┃ ┃ ┣ 🖼️ pear_1.jpg
+ ┃ ┃ ┃ ┃ ┣ 🖼️ pear_2.jpg
+ ┃ ┃ ┃ ┃ ┗ 🖼️ pear_3.jpg
+ ┣ 📂 Tropical                 ← Main dataset #2
+ ┃ ┣ 📂 ann                    ← Empty (no annotations here)
+ ┃ ┣ 📂 img                    ← Empty (no images here)
+ ┃ ┣ 📂 datasets               ← Where the nested datasets live
+ ┃ ┃ ┣ 📂 Banana               ← Nested dataset for bananas
+ ┃ ┃ ┃ ┣ 📂 ann
+ ┃ ┃ ┃ ┃ ┣ 📜 banana_1.jpg.json
+ ┃ ┃ ┃ ┃ ┣ 📜 banana_2.jpg.json
+ ┃ ┃ ┃ ┃ ┗ 📜 banana_3.jpg.json
+ ┃ ┃ ┃ ┗ 📂 img
+ ┃ ┃ ┃ ┃ ┣ 🖼️ banana_1.jpg
+ ┃ ┃ ┃ ┃ ┣ 🖼️ banana_2.jpg
+ ┃ ┃ ┃ ┃ ┗ 🖼️ banana_3.jpg
+ ┃ ┃ ┣ 📂 Lemon                ← Nested dataset for lemons
+ ┃ ┃ ┃ ┣ 📂 ann
+ ┃ ┃ ┃ ┃ ┣ 📜 lemon_1.jpg.json
+ ┃ ┃ ┃ ┃ ┣ 📜 lemon_2.jpg.json
+ ┃ ┃ ┃ ┃ ┗ 📜 lemon_3.jpg.json
+ ┃ ┃ ┃ ┗ 📂 img
+ ┃ ┃ ┃ ┃ ┣ 🖼️ lemon_1.jpg
+ ┃ ┃ ┃ ┃ ┣ 🖼️ lemon_2.jpg
+ ┃ ┃ ┃ ┃ ┗ 🖼️ lemon_3.jpg
+ ┃ ┃ ┗ 📂 Mango                ← Nested dataset for mangoes
+ ┃ ┃ ┃ ┣ 📂 ann
+ ┃ ┃ ┃ ┃ ┣ 📜 mango_1.jpg.json
+ ┃ ┃ ┃ ┃ ┣ 📜 mango_2.jpg.json
+ ┃ ┃ ┃ ┃ ┗ 📜 mango_3.jpg.json
+ ┃ ┃ ┃ ┗ 📂 img
+ ┃ ┃ ┃ ┃ ┣ 🖼️ mango_1.jpg
+ ┃ ┃ ┃ ┃ ┣ 🖼️ mango_2.jpg
+ ┃ ┃ ┃ ┃ ┗ 🖼️ mango_3.jpg
+ ┣ 📜 meta.json                ← Project metadata
+ ┗ 📜 README.md                ← Optional readme file
+```
